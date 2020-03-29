@@ -19,5 +19,27 @@
 </body>
 </html>
 
-chỉnh sửa lần 1 chinh sua cua hung
-chinh sua lan 2 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Text phuc mlmlmlml input fields</h2>
+
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+</form>
+
+<p>Note that the form itself is not visible.</p>
+
+<p>Also phuc hihisdfsdfdsf that the default width of text input fields is 20 characters.</p>
+
+</body>
+</html>
+
+<<<<<<< .minechỉnh sửa lần 1 chinh sua cua hung
+=======chỉnh sửa lần 1 ádasdsádsadasdasdasd
+>>>>>>> .theirschinh sua lan 2 
